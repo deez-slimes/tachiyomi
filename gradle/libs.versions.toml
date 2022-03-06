@@ -39,6 +39,8 @@ junrar = "com.github.junrar:junrar:7.4.0"
 sqlitektx = "androidx.sqlite:sqlite-ktx:2.2.0"
 sqlite-android = "com.github.requery:sqlite-android:3.36.0"
 
+minio = "io.minio:minio:8.3.7"
+
 preferencektx = "androidx.preference:preference-ktx:1.2.0"
 flowpreferences = "com.fredporciuncula:flow-preferences:1.6.0"
 

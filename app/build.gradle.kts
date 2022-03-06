@@ -188,6 +188,9 @@ dependencies {
     implementation("com.github.inorichi.storio:storio-common:8be19de@aar")
     implementation("com.github.inorichi.storio:storio-sqlite:8be19de@aar")
 
+    // Cloud storage
+    implementation(libs.minio)
+
     // Preferences
     implementation(libs.preferencektx)
     implementation(libs.flowpreferences)
